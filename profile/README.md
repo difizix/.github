@@ -1,6 +1,6 @@
-Scratch area for differentiable (trainable) physics [repositories](https://github.com/orgs/image3kit/repositories) currently collected and developed as part of [Heriot Watt Eco-AI](https://ai4netzero.github.io/eco-ai) project
+Machine-learning [repositories](https://github.com/orgs/image3kit/repositories) for physics and computational algorithms, part of [Heriot Watt Eco-AI](https://ai4netzero.github.io/eco-ai) project
 
-The main repositories will be moved to [ai4netzero](https://github.com/ai4netzero) account.
+The main repositories will be published on [ai4netzero](https://github.com/ai4netzero) account.
 
 ### Related Websites
 
