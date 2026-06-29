@@ -1,12 +1,6 @@
+Scratch area for differentiable (trainable) physics [repositories](https://github.com/orgs/image3kit/repositories) currently collected and developed as part of [Heriot Watt Eco-AI](https://ai4netzero.github.io/eco-ai) project
 
-# [Repositories](https://github.com/orgs/image3kit/repositories)
-
-A staging area for scientific 3D image (voxel-based and mesh/graph) processing, ML and simulation -- part of [ai4netzero](https://github.com/ai4netzero):
-
-* Most repositories here will eventually be made bublic on the [ai4netzero](https://github.com/ai4netzero) GitHub account.
-
-* The fork of [DigiPorFlow/image3kit](https://github.com/DigiPorFlow/image3kit) will be kept here for testing/replication/backup.
-
+The main repositories will be moved to [ai4netzero](https://github.com/ai4netzero) account.
 
 ### Related Websites
 
