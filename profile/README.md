@@ -1,4 +1,4 @@
-Machine-learning [repositories](https://github.com/orgs/image3kit/repositories) for physics and computational algorithms, part of [Heriot Watt Eco-AI](https://ai4netzero.github.io/eco-ai) project
+Machine-learning [repositories](https://github.com/orgs/difizix/repositories) for physics and computational algorithms, part of [Heriot Watt Eco-AI](https://ai4netzero.github.io/eco-ai) project
 
 The main repositories will be published on [ai4netzero](https://github.com/ai4netzero) account.
 
